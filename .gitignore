@@ -1,0 +1,11 @@
+.env
+.env.local
+node_modules
+.next
+.pgdata
+storage
+*.log
+npm-debug.log*
+coverage
+.prisma
+tsconfig.tsbuildinfo
